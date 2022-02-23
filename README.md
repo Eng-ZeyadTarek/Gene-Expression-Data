@@ -1,12 +1,10 @@
-# classifiy-the-gene
-
-# Lab:  Logistic Regression for Gene Expression Data
+# project:  Logistic Regression for Gene Expression Data
 
 In this lab, we use logistic regression to predict biological characteristics ("phenotypes") from gene expression data.  In addition to the concepts in [breast cancer demo](./breast_cancer.ipynb), you will learn to:
 * Handle missing data
 * Perform multi-class logistic classification
 * Create a confusion matrix
-* Use L1-regularization for improved estimation in the case of sparse weights (Grad students only)
+* Use L1-regularization for improved estimation in the case of sparse weights
 
 ## Background
 
